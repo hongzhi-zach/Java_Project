@@ -1,0 +1,10 @@
+In this prototype, we are representing three activities(screens), with different elements inside each activity.
+
+1. The first activity contains a small menu bar and a gridView, where user can interact by tapping on one of the images inside the grid (each grid contains a picture of a movie, which is retrieved with online free API and stored to JSON file)
+
+2. By tapping on an image from the first screen, the user will be redirected to the second activity(screen). The second screen is the movie review screen, which contains Movie title, movie image, release date, text review, favored button, maybe movie category, and a button to redirect the user to watch trailers of the movie on YouTube.
+
+3. The youtube trailer is opened with usable applications(eg.youtube itself) among installed apps in phone, triggered by Moviereview
+
+
+detailed description for functions is in code file
